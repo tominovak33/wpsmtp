@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: WPMAIL-MANDRILL
+ * Plugin Name: TOMINOVAK33-WPMAIL-MANDRILL
  * Description: Set the right phpmailer settings for using mandrill SMTP servers
  */
 
