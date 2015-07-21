@@ -10,6 +10,7 @@ define('PERCH_EMAIL_PASSWORD', '<your-mandrill-api-key>');
 define('PERCH_EMAIL_AUTH', true); // To make it work
 
 // Make sure that your hosting provider allows outbound SMTP connections on the port you use for the user that the site is running as!
+// If things are really going downhill, set this on the phpmailer object: $phpmailer->SMTPDebug  = 2; // Or 1
 
 /*---------------------------
 / End
